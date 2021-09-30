@@ -557,3 +557,146 @@ Author: Thomas833 <90223244+Thomas833@users.noreply.github.com>
 Date:   Tue Sep 28 17:18:59 2021 -0600
 
     Initial commit
+commit 5b5ae819175e8e02f016b36a5ab11f8750b4a227
+Author: zakeripouya <pzakeri@mines.edu>
+Date:   Thu Sep 30 13:28:16 2021 -0600
+
+    change the eyes of the cat to make him look baller
+    
+    also pushed the log decided one commit for both would be the most efficient
+
+commit c28ec0611c83767042d2c4dadf47220883267a17
+Author: Thomas833 <90223244+Thomas833@users.noreply.github.com>
+Date:   Thu Sep 30 13:26:16 2021 -0600
+
+    added commits to gitlog
+
+commit fd19ec24e511a1d3df9d6661316d1a40248dd59c
+Author: Thomas833 <90223244+Thomas833@users.noreply.github.com>
+Date:   Thu Sep 30 13:25:49 2021 -0600
+
+    changed cat's head size
+
+commit 0e8a107a68932e87befc032566ea98f94a4f14bf
+Merge: 4c97f74 5e5b825
+Author: Thomas833 <90223244+Thomas833@users.noreply.github.com>
+Date:   Thu Sep 30 13:24:11 2021 -0600
+
+    merging
+    
+    Merge branch 'main' of https://github.com/Thomas833/DrawPlay
+
+commit 4c97f74926e3aa428b25010f0dca5db7880b695f
+Merge: af2c7b4 db324e5
+Author: Thomas833 <90223244+Thomas833@users.noreply.github.com>
+Date:   Thu Sep 30 13:23:46 2021 -0600
+
+    fixed some files
+
+commit 5e5b8258d3dd3b109eab0f2fcc35fd2fbe43c8b0
+Author: zakeripouya <pzakeri@mines.edu>
+Date:   Thu Sep 30 13:23:00 2021 -0600
+
+    updating the gitlog
+
+commit 3131363ece092a01893a2ec191fb9f692ee32567
+Author: zakeripouya <pzakeri@mines.edu>
+Date:   Thu Sep 30 13:22:25 2021 -0600
+
+    change cats name
+    
+    i feel like the cat would have a better time if he was named steven
+
+commit af2c7b40e03703c4074ca61751950d3842a66947
+Author: Thomas833 <90223244+Thomas833@users.noreply.github.com>
+Date:   Thu Sep 30 13:20:21 2021 -0600
+
+    added . files
+
+commit db324e50f45cc54f2d99bd8ac21209d398734668
+Author: zakeripouya <pzakeri@mines.edu>
+Date:   Thu Sep 30 13:14:25 2021 -0600
+
+    update gitlog.txt
+    
+    updating the gitlog
+
+commit 7e10c4137ccb4d1c73e899ffe22c833f3f334ffa
+Author: zakeripouya <pzakeri@mines.edu>
+Date:   Thu Sep 30 13:13:49 2021 -0600
+
+    making the text under the cat black
+    
+    making the text a little easier to read
+
+commit 3eeedea4e5afd711bc0242bb35a9a1cd8e88022c
+Author: zakeripouya <pzakeri@mines.edu>
+Date:   Thu Sep 30 13:12:35 2021 -0600
+
+    adding my commits to the gitlog
+    
+    no further explanation
+
+commit 2276841f79f128b8b917cf0317d4d2b1c1545acc
+Author: zakeripouya <pzakeri@mines.edu>
+Date:   Thu Sep 30 13:09:09 2021 -0600
+
+    change cat mouth color
+    
+    change the car mouth color from pink to black
+
+commit 51a17a8f15b33bb92ca9ed588ebaf9a31e87377e
+Author: zakeripouya <pzakeri@mines.edu>
+Date:   Thu Sep 30 13:07:14 2021 -0600
+
+    changing the cat color
+    
+    I changed the cat color from black to orange
+
+commit 518d5ebba5cc8dcba1b577f59811025fff82cd05
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Thu Sep 30 12:58:20 2021 -0600
+
+    updated gitlog.txt to have most recent commits
+
+commit 56a120122d778057ec3cdffb26b7450586a9e0ad
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Thu Sep 30 12:52:39 2021 -0600
+
+    changed cat head size from 100 to 80
+
+commit ddeec4715d8894432607ade5c8c1ae518ab96dc4
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Thu Sep 30 12:50:12 2021 -0600
+
+    changed cat text from black to orange
+
+commit 47ea343a58f23995639412e9b1afdef973709dae
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Thu Sep 30 12:48:20 2021 -0600
+
+    commiting my gitlog file
+
+commit 685fa664eea86fc08a7c03e444e16d8f45ba091d
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Tue Sep 28 17:54:14 2021 -0600
+
+    changed cat's eye color from green to cyan
+
+commit 41e3bfbf0a13819ebe90b1173129165fd85b670d
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Tue Sep 28 17:47:28 2021 -0600
+
+    changed cat display text
+
+commit d6c5ab6d9c751fe06a2d03a07203591f7f4ab1e7
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Tue Sep 28 17:30:16 2021 -0600
+
+    first commit. added Cat and MyDrawing files
+
+commit 4132fecd20aaf832968524ed2bc31d9a5831aab1
+Author: Thomas833 <90223244+Thomas833@users.noreply.github.com>
+Date:   Tue Sep 28 17:18:59 2021 -0600
+
+    Initial commit
