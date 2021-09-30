@@ -1,0 +1,17 @@
+commit 41e3bfbf0a13819ebe90b1173129165fd85b670d
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Tue Sep 28 17:47:28 2021 -0600
+
+    changed cat display text
+
+commit d6c5ab6d9c751fe06a2d03a07203591f7f4ab1e7
+Author: Thomas Graham <tpgraham@mines.edu>
+Date:   Tue Sep 28 17:30:16 2021 -0600
+
+    first commit. added Cat and MyDrawing files
+
+commit 4132fecd20aaf832968524ed2bc31d9a5831aab1
+Author: Thomas833 <90223244+Thomas833@users.noreply.github.com>
+Date:   Tue Sep 28 17:18:59 2021 -0600
+
+    Initial commit
